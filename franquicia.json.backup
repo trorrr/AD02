@@ -1,0 +1,29 @@
+{
+  "tendas": [
+    {
+      "nome": "tenda1",
+      "cidade": "coruña",
+      "productos": [
+        {
+          "ID": 22,
+          "descripcion": "cosa",
+          "precio": 1.3,
+          "cantidade": 3
+        }
+      ],
+      "empregados": [
+        {
+          "nome": "hector",
+          "apelidos": "fernandez"
+        }
+      ]
+    }
+  ],
+  "clientes": [
+    {
+      "nome": "Fulanito",
+      "apelidos": "DeTal",
+      "email": "fulanito@detal.com"
+    }
+  ]
+}
